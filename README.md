@@ -1,6 +1,9 @@
-# eeeeee
+# i dont know grammar
+nononoyesyes
+11/9/2025
 
-my first post
-11/15/2025
+On June 8th, 2023 I was in a prison life server with some other exploiters. We had the entire server to ourselves and one had the bright idea to make a discord group chat full of us. When they asked me what my discord username was so they could add me, I was hesitant at first. I didn't want to share my personal discord account with them. So I decided to make a new account just so I could join their group chat. I'm not exactly sure what made me put nononoyesyes as the username though, I think I tried coming up with something random yet good in a hurry so that was the end result. I would join that group chat and then go on a family trip just to come back to that group chat getting deleted. Womp Womp. I was friends with the guy who had the idea to make the gc but he stopped going online one day (I think he was beamed?) and then due to something stupid I would get locked out of nononoyesyes.
 
-blog
+Even before I got locked out of nononoyesyes I would mess with the display name. The very first that I remember is no->yes. I'm not really sure how this connected to nononoyesyes. I just happened to like the -> operator or something a lot. Perhaps it showed how my username started with a no and would end with a yes. A little bit after that it went to 00011. Zero means no and one means yes. I would eventually get bored with that and so finally changed my display name to wear, the first 4 letters of weareviruses my roblox account. Too bad nononoyesyes died though.
+
+So my new discord became something related to Ghidra with the displayname being 000000FFFF. This is similar to nononoyesyes because of this thing called a bitmask. A bitmask allows you to select bits that you want and don't want. Each 00 byte represents no while each FF byte represents yes. I'm sure you can figure out how 000000FFFF connects to nononoyesyes. Too bad my friends don't like the displayname, they change it to very scary things. 
